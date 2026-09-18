@@ -1,14 +1,30 @@
 body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin-top: 100px;
-    background-color: #f2f2f2;
+font-family: Arial, sans-serif;
+text-align: center;
+margin-top: 100px;
+background-color: #f2f2f2;
 }
 
 h1 {
-    color: #333;
+color: #333;
 }
 
 p {
-    color: #555;
+color: #555;
+}
+
+.teia {
+font-size: 60px;
+margin-bottom: 20px;
+}
+
+.spider {
+font-size: 50px;
+margin-top: 30px;
+}
+
+.tema {
+color: #b30000;
+font-weight: bold;
+margin-top: 20px;
 }
